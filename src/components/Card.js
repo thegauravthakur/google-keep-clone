@@ -8,6 +8,9 @@ const Card = ({ title, body, index }) => {
   return (
     <Fragment>
       <Popup
+        nested
+        closeOnDocumentClick
+        lockScroll
         contentStyle={{
           width: "80%",
           maxWidth: "500px",
@@ -16,7 +19,7 @@ const Card = ({ title, body, index }) => {
         }}
         modal
         trigger={
-          <div className="whitespace-pre-line shadow hover:shadow-xl  py-5 px-5 bg-white rounded-lg cursor-pointer">
+          <div className="whitespace-pre-line shadow hover:shadow-xl  py-5 px-5 bg-white rounded-lg cursor-pointer remove-touch-effect">
             {title.length > 0 ? (
               <LinesEllipsis
                 className="font-bold mb-3"

@@ -1,8 +1,13 @@
 body {
     background-color: #F0F0F0;
+    user-select: none;
 }
 
 .max-height-80p {
     max-height: 70vh;
+}
+
+.remove-touch-effect {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 }
 
