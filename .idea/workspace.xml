@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34d86cc4-82d3-4605-813c-64ce4d9cbc8e" name="Default Changelist" comment="Updated the README.md">
+    <list default="true" id="34d86cc4-82d3-4605-813c-64ce4d9cbc8e" name="Default Changelist" comment="Solved a bug were closing the modal was not possible">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,8 @@
       <workItem from="1606974829275" duration="403000" />
       <workItem from="1606977622362" duration="14457000" />
       <workItem from="1607005747441" duration="4041000" />
-      <workItem from="1607010100692" duration="2110000" />
+      <workItem from="1607010100692" duration="2650000" />
+      <workItem from="1607054174025" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="updated the whole application">
       <created>1607010205522</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607010814258</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solved a bug were closing the modal was not possible">
+      <created>1607012261730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607012261730</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated the whole application" />
     <MESSAGE value="Updated the README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the README.md" />
+    <MESSAGE value="Solved a bug were closing the modal was not possible" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved a bug were closing the modal was not possible" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
