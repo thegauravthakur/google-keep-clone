@@ -9,7 +9,6 @@ const Card = ({ title, body, index }) => {
     <Fragment>
       <Popup
         nested
-        closeOnDocumentClick
         lockScroll
         contentStyle={{
           width: "80%",

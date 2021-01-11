@@ -39,7 +39,7 @@ function App() {
           Google Keep Clone
         </h1>
         <CustomInputField />
-        <div className="flex-1 grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mx-5 sm:mx-14  md:mx-24 gap-5 py-7 ">
+        <div className="flex-1 grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mx-5 sm:mx-14  md:mx-24 gap-5 py-7 auto-rows-min ">
           {notes.map((note, index) => (
             <Card
               index={index}

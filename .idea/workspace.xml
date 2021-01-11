@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34d86cc4-82d3-4605-813c-64ce4d9cbc8e" name="Default Changelist" comment="Solved a bug were closing the modal was not possible">
+    <list default="true" id="34d86cc4-82d3-4605-813c-64ce4d9cbc8e" name="Default Changelist" comment="Added some meta tags and favicon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\webd\keep-clone\public" />
       <recent name="C:\dev\webd\keep-clone\src\components" />
     </key>
   </component>
@@ -67,7 +67,10 @@
       <workItem from="1606977622362" duration="14457000" />
       <workItem from="1607005747441" duration="4041000" />
       <workItem from="1607010100692" duration="2650000" />
-      <workItem from="1607054174025" duration="169000" />
+      <workItem from="1607054174025" duration="799000" />
+      <workItem from="1607073808305" duration="24000" />
+      <workItem from="1608035268349" duration="91000" />
+      <workItem from="1610356198479" duration="195000" />
     </task>
     <task id="LOCAL-00001" summary="updated the whole application">
       <created>1607010205522</created>
@@ -104,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607012261730</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added some meta tags and favicon">
+      <created>1607054629390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607054629390</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +136,8 @@
     <MESSAGE value="updated the whole application" />
     <MESSAGE value="Updated the README.md" />
     <MESSAGE value="Solved a bug were closing the modal was not possible" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved a bug were closing the modal was not possible" />
+    <MESSAGE value="Added some meta tags and favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some meta tags and favicon" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
